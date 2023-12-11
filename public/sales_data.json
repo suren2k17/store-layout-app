@@ -1,0 +1,282 @@
+[
+    {
+      "AisleNumber": "A1",
+      "StockingSection": "Spices and Herbs",
+      "SalesIn30Days": 6306,
+      "SalesIn90Days": 21656,
+      "SalesIn365Days": 72191,
+      "HistoricSalesIn2Years": 46128,
+      "HistoricSalesIn5Years": 273711
+    },
+    {
+      "AisleNumber": "A2",
+      "StockingSection": "Nuts and Bars",
+      "SalesIn30Days": 567,
+      "SalesIn90Days": 20806,
+      "SalesIn365Days": 106492,
+      "HistoricSalesIn2Years": 138341,
+      "HistoricSalesIn5Years": 174835
+    },
+    {
+      "AisleNumber": "A3",
+      "StockingSection": "Dairy Products",
+      "SalesIn30Days": 3661,
+      "SalesIn90Days": 25469,
+      "SalesIn365Days": 109219,
+      "HistoricSalesIn2Years": 67277,
+      "HistoricSalesIn5Years": 506955
+    },
+    {
+      "AisleNumber": "A4",
+      "StockingSection": "Canned Foods",
+      "SalesIn30Days": 2865,
+      "SalesIn90Days": 3012,
+      "SalesIn365Days": 48902,
+      "HistoricSalesIn2Years": 87975,
+      "HistoricSalesIn5Years": 109007
+    },
+    {
+      "AisleNumber": "A5",
+      "StockingSection": "Breads",
+      "SalesIn30Days": 4715,
+      "SalesIn90Days": 23951,
+      "SalesIn365Days": 105185,
+      "HistoricSalesIn2Years": 154874,
+      "HistoricSalesIn5Years": 397998
+    },
+    {
+      "AisleNumber": "A6",
+      "StockingSection": "Spices and Herbs",
+      "SalesIn30Days": 5289,
+      "SalesIn90Days": 14263,
+      "SalesIn365Days": 50074,
+      "HistoricSalesIn2Years": 169925,
+      "HistoricSalesIn5Years": 286885
+    },
+    {
+      "AisleNumber": "A7",
+      "StockingSection": "Nuts and Bars",
+      "SalesIn30Days": 1384,
+      "SalesIn90Days": 15131,
+      "SalesIn365Days": 22294,
+      "HistoricSalesIn2Years": 42510,
+      "HistoricSalesIn5Years": 420479
+    },
+    {
+      "AisleNumber": "A8",
+      "StockingSection": "Meat and Seafood",
+      "SalesIn30Days": 6487,
+      "SalesIn90Days": 3888,
+      "SalesIn365Days": 82633,
+      "HistoricSalesIn2Years": 230324,
+      "HistoricSalesIn5Years": 423488
+    },
+    {
+      "AisleNumber": "A9",
+      "StockingSection": "Water Bottles",
+      "SalesIn30Days": 4363,
+      "SalesIn90Days": 27009,
+      "SalesIn365Days": 91802,
+      "HistoricSalesIn2Years": 15536,
+      "HistoricSalesIn5Years": 432451
+    },
+    {
+      "AisleNumber": "A10",
+      "StockingSection": "Breads",
+      "SalesIn30Days": 6996,
+      "SalesIn90Days": 14537,
+      "SalesIn365Days": 74301,
+      "HistoricSalesIn2Years": 39078,
+      "HistoricSalesIn5Years": 110468
+    },
+    {
+      "AisleNumber": "A11",
+      "StockingSection": "Beers",
+      "SalesIn30Days": 7932,
+      "SalesIn90Days": 23588,
+      "SalesIn365Days": 23780,
+      "HistoricSalesIn2Years": 165680,
+      "HistoricSalesIn5Years": 569882
+    },
+    {
+      "AisleNumber": "A12",
+      "StockingSection": "Asian Foods",
+      "SalesIn30Days": 8255,
+      "SalesIn90Days": 20489,
+      "SalesIn365Days": 87279,
+      "HistoricSalesIn2Years": 225203,
+      "HistoricSalesIn5Years": 509349
+    },
+    {
+      "AisleNumber": "A13",
+      "StockingSection": "Fresh Fruits",
+      "SalesIn30Days": 5942,
+      "SalesIn90Days": 11692,
+      "SalesIn365Days": 68299,
+      "HistoricSalesIn2Years": 173283,
+      "HistoricSalesIn5Years": 207002
+    },
+    {
+      "AisleNumber": "A14",
+      "StockingSection": "Beers",
+      "SalesIn30Days": 7109,
+      "SalesIn90Days": 23865,
+      "SalesIn365Days": 57297,
+      "HistoricSalesIn2Years": 168940,
+      "HistoricSalesIn5Years": 291186
+    },
+    {
+      "AisleNumber": "A15",
+      "StockingSection": "Soft Drinks",
+      "SalesIn30Days": 3995,
+      "SalesIn90Days": 2534,
+      "SalesIn365Days": 110392,
+      "HistoricSalesIn2Years": 45029,
+      "HistoricSalesIn5Years": 177406
+    },
+    {
+      "AisleNumber": "A16",
+      "StockingSection": "Meat and Seafood",
+      "SalesIn30Days": 8953,
+      "SalesIn90Days": 22594,
+      "SalesIn365Days": 109493,
+      "HistoricSalesIn2Years": 214664,
+      "HistoricSalesIn5Years": 322519
+    },
+    {
+      "AisleNumber": "A17",
+      "StockingSection": "Confectionery",
+      "SalesIn30Days": 1191,
+      "SalesIn90Days": 4993,
+      "SalesIn365Days": 101240,
+      "HistoricSalesIn2Years": 192243,
+      "HistoricSalesIn5Years": 120866
+    },
+    {
+      "AisleNumber": "A18",
+      "StockingSection": "Water Bottles",
+      "SalesIn30Days": 6583,
+      "SalesIn90Days": 28045,
+      "SalesIn365Days": 77150,
+      "HistoricSalesIn2Years": 85017,
+      "HistoricSalesIn5Years": 550630
+    },
+    {
+      "AisleNumber": "A19",
+      "StockingSection": "Pet Supplies",
+      "SalesIn30Days": 7933,
+      "SalesIn90Days": 26456,
+      "SalesIn365Days": 119564,
+      "HistoricSalesIn2Years": 189906,
+      "HistoricSalesIn5Years": 128328
+    },
+    {
+      "AisleNumber": "A20",
+      "StockingSection": "Canned Foods",
+      "SalesIn30Days": 3013,
+      "SalesIn90Days": 16024,
+      "SalesIn365Days": 33900,
+      "HistoricSalesIn2Years": 176137,
+      "HistoricSalesIn5Years": 227772
+    },
+    {
+      "AisleNumber": "A21",
+      "StockingSection": "Vegetables",
+      "SalesIn30Days": 7966,
+      "SalesIn90Days": 6246,
+      "SalesIn365Days": 23607,
+      "HistoricSalesIn2Years": 156248,
+      "HistoricSalesIn5Years": 577971
+    },
+    {
+      "AisleNumber": "A22",
+      "StockingSection": "Pasta and Rice",
+      "SalesIn30Days": 1293,
+      "SalesIn90Days": 27647,
+      "SalesIn365Days": 83110,
+      "HistoricSalesIn2Years": 138677,
+      "HistoricSalesIn5Years": 475797
+    },
+    {
+      "AisleNumber": "A23",
+      "StockingSection": "Beers",
+      "SalesIn30Days": 4991,
+      "SalesIn90Days": 11065,
+      "SalesIn365Days": 48605,
+      "HistoricSalesIn2Years": 81271,
+      "HistoricSalesIn5Years": 113803
+    },
+    {
+      "AisleNumber": "A24",
+      "StockingSection": "Vegetables",
+      "SalesIn30Days": 1266,
+      "SalesIn90Days": 11451,
+      "SalesIn365Days": 46651,
+      "HistoricSalesIn2Years": 230441,
+      "HistoricSalesIn5Years": 583472
+    },
+    {
+      "AisleNumber": "A25",
+      "StockingSection": "Breads",
+      "SalesIn30Days": 5376,
+      "SalesIn90Days": 13053,
+      "SalesIn365Days": 67831,
+      "HistoricSalesIn2Years": 147104,
+      "HistoricSalesIn5Years": 368770
+    },
+    {
+      "AisleNumber": "A26",
+      "StockingSection": "Cleaning Supplies",
+      "SalesIn30Days": 9786,
+      "SalesIn90Days": 29342,
+      "SalesIn365Days": 36789,
+      "HistoricSalesIn2Years": 213950,
+      "HistoricSalesIn5Years": 422941
+    },
+    {
+      "AisleNumber": "A27",
+      "StockingSection": "Nuts and Bars",
+      "SalesIn30Days": 9883,
+      "SalesIn90Days": 19598,
+      "SalesIn365Days": 32549,
+      "HistoricSalesIn2Years": 17299,
+      "HistoricSalesIn5Years": 129911
+    },
+    {
+      "AisleNumber": "A28",
+      "StockingSection": "Salty Snacks",
+      "SalesIn30Days": 4269,
+      "SalesIn90Days": 28644,
+      "SalesIn365Days": 82400,
+      "HistoricSalesIn2Years": 145565,
+      "HistoricSalesIn5Years": 76147
+    },
+    {
+      "AisleNumber": "A29",
+      "StockingSection": "Nuts and Bars",
+      "SalesIn30Days": 4516,
+      "SalesIn90Days": 12998,
+      "SalesIn365Days": 66659,
+      "HistoricSalesIn2Years": 200880,
+      "HistoricSalesIn5Years": 131462
+    },
+    {
+      "AisleNumber": "A30",
+      "StockingSection": "Beers",
+      "SalesIn30Days": 9879,
+      "SalesIn90Days": 5170,
+      "SalesIn365Days": 11490,
+      "HistoricSalesIn2Years": 141389,
+      "HistoricSalesIn5Years": 88505
+    },
+    {
+      "AisleNumber": "A0",
+      "StockingSection": "Cookie/Cracker LunchBox",
+      "SalesIn30Days": 4428,
+      "SalesIn90Days": 16120,
+      "SalesIn365Days": 112222,
+      "HistoricSalesIn2Years": 31354,
+      "HistoricSalesIn5Years": 220061
+    }
+  ]
+  

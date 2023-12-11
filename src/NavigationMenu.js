@@ -88,7 +88,7 @@ function NavigationMenu() {
                 <ListItemText primary="Inventory" />
               </SubMenu>
               <SubMenu button component={StyledLink} to="/supply-chain">
-                <ListItemText primary="Supply Chain" />
+                <ListItemText primary="Shelf Utilization" />
               </SubMenu>
               <SubMenu button component={StyledLink} to="/localized-interactions">
                 <ListItemText primary="Localized Interactions" />

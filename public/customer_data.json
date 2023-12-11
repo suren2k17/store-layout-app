@@ -1,0 +1,220 @@
+[
+    {
+      "AisleNumber": "A1",
+      "StockingSection": "Spices and Herbs",
+      "CustomerInteractions": 841,
+      "CustomerDemographics": "Young Adults",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A2",
+      "StockingSection": "Nuts and Bars",
+      "CustomerInteractions": 2370,
+      "CustomerDemographics": "Families",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A3",
+      "StockingSection": "Dairy Products",
+      "CustomerInteractions": 3225,
+      "CustomerDemographics": "Families",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A4",
+      "StockingSection": "Canned Foods",
+      "CustomerInteractions": 1126,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Negative"
+    },
+    {
+      "AisleNumber": "A5",
+      "StockingSection": "Breads",
+      "CustomerInteractions": 1727,
+      "CustomerDemographics": "Elderly",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A6",
+      "StockingSection": "Spices and Herbs",
+      "CustomerInteractions": 963,
+      "CustomerDemographics": "Families",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A7",
+      "StockingSection": "Nuts and Bars",
+      "CustomerInteractions": 1472,
+      "CustomerDemographics": "Young Adults",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A8",
+      "StockingSection": "Meat and Seafood",
+      "CustomerInteractions": 4319,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Negative"
+    },
+    {
+      "AisleNumber": "A9",
+      "StockingSection": "Water Bottles",
+      "CustomerInteractions": 3020,
+      "CustomerDemographics": "Families",
+      "CustomerFeedback": "Negative"
+    },
+    {
+      "AisleNumber": "A10",
+      "StockingSection": "Breads",
+      "CustomerInteractions": 291,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Negative"
+    },
+    {
+      "AisleNumber": "A11",
+      "StockingSection": "Beers",
+      "CustomerInteractions": 1356,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Negative"
+    },
+    {
+      "AisleNumber": "A12",
+      "StockingSection": "Asian Foods",
+      "CustomerInteractions": 2410,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A13",
+      "StockingSection": "Fresh Fruits",
+      "CustomerInteractions": 1910,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Negative"
+    },
+    {
+      "AisleNumber": "A14",
+      "StockingSection": "Beers",
+      "CustomerInteractions": 406,
+      "CustomerDemographics": "Elderly",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A15",
+      "StockingSection": "Soft Drinks",
+      "CustomerInteractions": 716,
+      "CustomerDemographics": "Elderly",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A16",
+      "StockingSection": "Meat and Seafood",
+      "CustomerInteractions": 3934,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A17",
+      "StockingSection": "Confectionery",
+      "CustomerInteractions": 4119,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A18",
+      "StockingSection": "Water Bottles",
+      "CustomerInteractions": 2509,
+      "CustomerDemographics": "Families",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A19",
+      "StockingSection": "Pet Supplies",
+      "CustomerInteractions": 3858,
+      "CustomerDemographics": "Young Adults",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A20",
+      "StockingSection": "Canned Foods",
+      "CustomerInteractions": 376,
+      "CustomerDemographics": "Elderly",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A21",
+      "StockingSection": "Vegetables",
+      "CustomerInteractions": 354,
+      "CustomerDemographics": "Elderly",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A22",
+      "StockingSection": "Pasta and Rice",
+      "CustomerInteractions": 283,
+      "CustomerDemographics": "Families",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A23",
+      "StockingSection": "Beers",
+      "CustomerInteractions": 3264,
+      "CustomerDemographics": "Families",
+      "CustomerFeedback": "Negative"
+    },
+    {
+      "AisleNumber": "A24",
+      "StockingSection": "Vegetables",
+      "CustomerInteractions": 4594,
+      "CustomerDemographics": "Elderly",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A25",
+      "StockingSection": "Breads",
+      "CustomerInteractions": 2999,
+      "CustomerDemographics": "Young Adults",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A26",
+      "StockingSection": "Cleaning Supplies",
+      "CustomerInteractions": 3590,
+      "CustomerDemographics": "Young Adults",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A27",
+      "StockingSection": "Nuts and Bars",
+      "CustomerInteractions": 2603,
+      "CustomerDemographics": "Families",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A28",
+      "StockingSection": "Salty Snacks",
+      "CustomerInteractions": 4750,
+      "CustomerDemographics": "Teens",
+      "CustomerFeedback": "Positive"
+    },
+    {
+      "AisleNumber": "A29",
+      "StockingSection": "Nuts and Bars",
+      "CustomerInteractions": 3150,
+      "CustomerDemographics": "Young Adults",
+      "CustomerFeedback": "Negative"
+    },
+    {
+      "AisleNumber": "A30",
+      "StockingSection": "Beers",
+      "CustomerInteractions": 3896,
+      "CustomerDemographics": "Young Adults",
+      "CustomerFeedback": "Neutral"
+    },
+    {
+      "AisleNumber": "A0",
+      "StockingSection": "Cookie/Cracker LunchBox",
+      "CustomerInteractions": 711,
+      "CustomerDemographics": "Young Adults",
+      "CustomerFeedback": "Negative"
+    }
+  ]
+  

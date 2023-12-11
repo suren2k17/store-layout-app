@@ -1,0 +1,220 @@
+[
+    {
+      "AisleNumber": "A1",
+      "StockingSection": "Spices and Herbs",
+      "AisleTrafficFlow": 376,
+      "ShelfSpaceUtilization": 0.9,
+      "ProductPlacementEfficiency": 0.75
+    },
+    {
+      "AisleNumber": "A2",
+      "StockingSection": "Nuts and Bars",
+      "AisleTrafficFlow": 170,
+      "ShelfSpaceUtilization": 0.94,
+      "ProductPlacementEfficiency": 0.84
+    },
+    {
+      "AisleNumber": "A3",
+      "StockingSection": "Dairy Products",
+      "AisleTrafficFlow": 597,
+      "ShelfSpaceUtilization": 0.93,
+      "ProductPlacementEfficiency": 0.96
+    },
+    {
+      "AisleNumber": "A4",
+      "StockingSection": "Canned Foods",
+      "AisleTrafficFlow": 240,
+      "ShelfSpaceUtilization": 0.61,
+      "ProductPlacementEfficiency": 0.78
+    },
+    {
+      "AisleNumber": "A5",
+      "StockingSection": "Breads",
+      "AisleTrafficFlow": 591,
+      "ShelfSpaceUtilization": 0.67,
+      "ProductPlacementEfficiency": 0.67
+    },
+    {
+      "AisleNumber": "A6",
+      "StockingSection": "Spices and Herbs",
+      "AisleTrafficFlow": 781,
+      "ShelfSpaceUtilization": 1.0,
+      "ProductPlacementEfficiency": 0.95
+    },
+    {
+      "AisleNumber": "A7",
+      "StockingSection": "Nuts and Bars",
+      "AisleTrafficFlow": 231,
+      "ShelfSpaceUtilization": 0.69,
+      "ProductPlacementEfficiency": 0.96
+    },
+    {
+      "AisleNumber": "A8",
+      "StockingSection": "Meat and Seafood",
+      "AisleTrafficFlow": 106,
+      "ShelfSpaceUtilization": 0.63,
+      "ProductPlacementEfficiency": 0.61
+    },
+    {
+      "AisleNumber": "A9",
+      "StockingSection": "Water Bottles",
+      "AisleTrafficFlow": 466,
+      "ShelfSpaceUtilization": 0.73,
+      "ProductPlacementEfficiency": 0.84
+    },
+    {
+      "AisleNumber": "A10",
+      "StockingSection": "Breads",
+      "AisleTrafficFlow": 418,
+      "ShelfSpaceUtilization": 0.54,
+      "ProductPlacementEfficiency": 0.92
+    },
+    {
+      "AisleNumber": "A11",
+      "StockingSection": "Beers",
+      "AisleTrafficFlow": 757,
+      "ShelfSpaceUtilization": 0.82,
+      "ProductPlacementEfficiency": 0.62
+    },
+    {
+      "AisleNumber": "A12",
+      "StockingSection": "Asian Foods",
+      "AisleTrafficFlow": 241,
+      "ShelfSpaceUtilization": 0.92,
+      "ProductPlacementEfficiency": 0.65
+    },
+    {
+      "AisleNumber": "A13",
+      "StockingSection": "Fresh Fruits",
+      "AisleTrafficFlow": 752,
+      "ShelfSpaceUtilization": 0.72,
+      "ProductPlacementEfficiency": 0.52
+    },
+    {
+      "AisleNumber": "A14",
+      "StockingSection": "Beers",
+      "AisleTrafficFlow": 441,
+      "ShelfSpaceUtilization": 0.6,
+      "ProductPlacementEfficiency": 0.84
+    },
+    {
+      "AisleNumber": "A15",
+      "StockingSection": "Soft Drinks",
+      "AisleTrafficFlow": 870,
+      "ShelfSpaceUtilization": 0.58,
+      "ProductPlacementEfficiency": 0.69
+    },
+    {
+      "AisleNumber": "A16",
+      "StockingSection": "Meat and Seafood",
+      "AisleTrafficFlow": 102,
+      "ShelfSpaceUtilization": 0.99,
+      "ProductPlacementEfficiency": 0.56
+    },
+    {
+      "AisleNumber": "A17",
+      "StockingSection": "Confectionery",
+      "AisleTrafficFlow": 372,
+      "ShelfSpaceUtilization": 0.53,
+      "ProductPlacementEfficiency": 0.78
+    },
+    {
+      "AisleNumber": "A18",
+      "StockingSection": "Water Bottles",
+      "AisleTrafficFlow": 197,
+      "ShelfSpaceUtilization": 0.62,
+      "ProductPlacementEfficiency": 0.86
+    },
+    {
+      "AisleNumber": "A19",
+      "StockingSection": "Pet Supplies",
+      "AisleTrafficFlow": 836,
+      "ShelfSpaceUtilization": 0.5,
+      "ProductPlacementEfficiency": 0.81
+    },
+    {
+      "AisleNumber": "A20",
+      "StockingSection": "Canned Foods",
+      "AisleTrafficFlow": 849,
+      "ShelfSpaceUtilization": 0.97,
+      "ProductPlacementEfficiency": 0.65
+    },
+    {
+      "AisleNumber": "A21",
+      "StockingSection": "Vegetables",
+      "AisleTrafficFlow": 971,
+      "ShelfSpaceUtilization": 0.72,
+      "ProductPlacementEfficiency": 0.75
+    },
+    {
+      "AisleNumber": "A22",
+      "StockingSection": "Pasta and Rice",
+      "AisleTrafficFlow": 487,
+      "ShelfSpaceUtilization": 0.87,
+      "ProductPlacementEfficiency": 0.68
+    },
+    {
+      "AisleNumber": "A23",
+      "StockingSection": "Beers",
+      "AisleTrafficFlow": 288,
+      "ShelfSpaceUtilization": 0.87,
+      "ProductPlacementEfficiency": 0.75
+    },
+    {
+      "AisleNumber": "A24",
+      "StockingSection": "Vegetables",
+      "AisleTrafficFlow": 250,
+      "ShelfSpaceUtilization": 0.98,
+      "ProductPlacementEfficiency": 0.63
+    },
+    {
+      "AisleNumber": "A25",
+      "StockingSection": "Breads",
+      "AisleTrafficFlow": 344,
+      "ShelfSpaceUtilization": 0.86,
+      "ProductPlacementEfficiency": 0.73
+    },
+    {
+      "AisleNumber": "A26",
+      "StockingSection": "Cleaning Supplies",
+      "AisleTrafficFlow": 281,
+      "ShelfSpaceUtilization": 0.78,
+      "ProductPlacementEfficiency": 0.72
+    },
+    {
+      "AisleNumber": "A27",
+      "StockingSection": "Nuts and Bars",
+      "AisleTrafficFlow": 721,
+      "ShelfSpaceUtilization": 0.92,
+      "ProductPlacementEfficiency": 0.55
+    },
+    {
+      "AisleNumber": "A28",
+      "StockingSection": "Salty Snacks",
+      "AisleTrafficFlow": 478,
+      "ShelfSpaceUtilization": 0.84,
+      "ProductPlacementEfficiency": 0.69
+    },
+    {
+      "AisleNumber": "A29",
+      "StockingSection": "Nuts and Bars",
+      "AisleTrafficFlow": 376,
+      "ShelfSpaceUtilization": 0.66,
+      "ProductPlacementEfficiency": 0.99
+    },
+    {
+      "AisleNumber": "A30",
+      "StockingSection": "Beers",
+      "AisleTrafficFlow": 576,
+      "ShelfSpaceUtilization": 0.95,
+      "ProductPlacementEfficiency": 0.67
+    },
+    {
+      "AisleNumber": "A0",
+      "StockingSection": "Cookie/Cracker LunchBox",
+      "AisleTrafficFlow": 393,
+      "ShelfSpaceUtilization": 0.97,
+      "ProductPlacementEfficiency": 0.79
+    }
+  ]
+  

@@ -1,0 +1,251 @@
+[
+    {
+      "AisleNumber": "A1",
+      "StockingSection": "Spices and Herbs",
+      "CurrentInventoryLevels": 783,
+      "InventoryTurnoverRate": 6.99,
+      "StockOutFrequency": 36,
+      "ProductRestockRates": 22
+    },
+    {
+      "AisleNumber": "A2",
+      "StockingSection": "Nuts and Bars",
+      "CurrentInventoryLevels": 722,
+      "InventoryTurnoverRate": 3.13,
+      "StockOutFrequency": 35,
+      "ProductRestockRates": 18
+    },
+    {
+      "AisleNumber": "A3",
+      "StockingSection": "Dairy Products",
+      "CurrentInventoryLevels": 1908,
+      "InventoryTurnoverRate": 5.12,
+      "StockOutFrequency": 38,
+      "ProductRestockRates": 28
+    },
+    {
+      "AisleNumber": "A4",
+      "StockingSection": "Canned Foods",
+      "CurrentInventoryLevels": 1774,
+      "InventoryTurnoverRate": 5.59,
+      "StockOutFrequency": 16,
+      "ProductRestockRates": 21
+    },
+    {
+      "AisleNumber": "A5",
+      "StockingSection": "Breads",
+      "CurrentInventoryLevels": 851,
+      "InventoryTurnoverRate": 6.1,
+      "StockOutFrequency": 82,
+      "ProductRestockRates": 28
+    },
+    {
+      "AisleNumber": "A6",
+      "StockingSection": "Spices and Herbs",
+      "CurrentInventoryLevels": 1213,
+      "InventoryTurnoverRate": 8.4,
+      "StockOutFrequency": 45,
+      "ProductRestockRates": 13
+    },
+    {
+      "AisleNumber": "A7",
+      "StockingSection": "Nuts and Bars",
+      "CurrentInventoryLevels": 485,
+      "InventoryTurnoverRate": 9.14,
+      "StockOutFrequency": 86,
+      "ProductRestockRates": 9
+    },
+    {
+      "AisleNumber": "A8",
+      "StockingSection": "Meat and Seafood",
+      "CurrentInventoryLevels": 260,
+      "InventoryTurnoverRate": 3.53,
+      "StockOutFrequency": 90,
+      "ProductRestockRates": 11
+    },
+    {
+      "AisleNumber": "A9",
+      "StockingSection": "Water Bottles",
+      "CurrentInventoryLevels": 1864,
+      "InventoryTurnoverRate": 9.68,
+      "StockOutFrequency": 30,
+      "ProductRestockRates": 14
+    },
+    {
+      "AisleNumber": "A10",
+      "StockingSection": "Breads",
+      "CurrentInventoryLevels": 1392,
+      "InventoryTurnoverRate": 9.96,
+      "StockOutFrequency": 38,
+      "ProductRestockRates": 20
+    },
+    {
+      "AisleNumber": "A11",
+      "StockingSection": "Beers",
+      "CurrentInventoryLevels": 624,
+      "InventoryTurnoverRate": 2.35,
+      "StockOutFrequency": 73,
+      "ProductRestockRates": 7
+    },
+    {
+      "AisleNumber": "A12",
+      "StockingSection": "Asian Foods",
+      "CurrentInventoryLevels": 826,
+      "InventoryTurnoverRate": 4.59,
+      "StockOutFrequency": 39,
+      "ProductRestockRates": 15
+    },
+    {
+      "AisleNumber": "A13",
+      "StockingSection": "Fresh Fruits",
+      "CurrentInventoryLevels": 1267,
+      "InventoryTurnoverRate": 9.18,
+      "StockOutFrequency": 43,
+      "ProductRestockRates": 7
+    },
+    {
+      "AisleNumber": "A14",
+      "StockingSection": "Beers",
+      "CurrentInventoryLevels": 929,
+      "InventoryTurnoverRate": 8.39,
+      "StockOutFrequency": 65,
+      "ProductRestockRates": 9
+    },
+    {
+      "AisleNumber": "A15",
+      "StockingSection": "Soft Drinks",
+      "CurrentInventoryLevels": 1018,
+      "InventoryTurnoverRate": 3.65,
+      "StockOutFrequency": 71,
+      "ProductRestockRates": 9
+    },
+    {
+      "AisleNumber": "A16",
+      "StockingSection": "Meat and Seafood",
+      "CurrentInventoryLevels": 1708,
+      "InventoryTurnoverRate": 3.23,
+      "StockOutFrequency": 91,
+      "ProductRestockRates": 23
+    },
+    {
+      "AisleNumber": "A17",
+      "StockingSection": "Confectionery",
+      "CurrentInventoryLevels": 133,
+      "InventoryTurnoverRate": 8.91,
+      "StockOutFrequency": 59,
+      "ProductRestockRates": 13
+    },
+    {
+      "AisleNumber": "A18",
+      "StockingSection": "Water Bottles",
+      "CurrentInventoryLevels": 113,
+      "InventoryTurnoverRate": 6.84,
+      "StockOutFrequency": 43,
+      "ProductRestockRates": 16
+    },
+    {
+      "AisleNumber": "A19",
+      "StockingSection": "Pet Supplies",
+      "CurrentInventoryLevels": 1364,
+      "InventoryTurnoverRate": 4.79,
+      "StockOutFrequency": 5,
+      "ProductRestockRates": 25
+    },
+    {
+      "AisleNumber": "A20",
+      "StockingSection": "Canned Foods",
+      "CurrentInventoryLevels": 723,
+      "InventoryTurnoverRate": 1.36,
+      "StockOutFrequency": 27,
+      "ProductRestockRates": 25
+    },
+    {
+      "AisleNumber": "A21",
+      "StockingSection": "Vegetables",
+      "CurrentInventoryLevels": 1749,
+      "InventoryTurnoverRate": 8.69,
+      "StockOutFrequency": 55,
+      "ProductRestockRates": 9
+    },
+    {
+      "AisleNumber": "A22",
+      "StockingSection": "Pasta and Rice",
+      "CurrentInventoryLevels": 402,
+      "InventoryTurnoverRate": 4.3,
+      "StockOutFrequency": 5,
+      "ProductRestockRates": 27
+    },
+    {
+      "AisleNumber": "A23",
+      "StockingSection": "Beers",
+      "CurrentInventoryLevels": 166,
+      "InventoryTurnoverRate": 3.75,
+      "StockOutFrequency": 46,
+      "ProductRestockRates": 29
+    },
+    {
+      "AisleNumber": "A24",
+      "StockingSection": "Vegetables",
+      "CurrentInventoryLevels": 292,
+      "InventoryTurnoverRate": 4.85,
+      "StockOutFrequency": 25,
+      "ProductRestockRates": 9
+    },
+    {
+      "AisleNumber": "A25",
+      "StockingSection": "Breads",
+      "CurrentInventoryLevels": 508,
+      "InventoryTurnoverRate": 9.74,
+      "StockOutFrequency": 51,
+      "ProductRestockRates": 16
+    },
+    {
+      "AisleNumber": "A26",
+      "StockingSection": "Cleaning Supplies",
+      "CurrentInventoryLevels": 1220,
+      "InventoryTurnoverRate": 8.21,
+      "StockOutFrequency": 46,
+      "ProductRestockRates": 4
+    },
+    {
+      "AisleNumber": "A27",
+      "StockingSection": "Nuts and Bars",
+      "CurrentInventoryLevels": 114,
+      "InventoryTurnoverRate": 8.76,
+      "StockOutFrequency": 53,
+      "ProductRestockRates": 22
+    },
+    {
+      "AisleNumber": "A28",
+      "StockingSection": "Salty Snacks",
+      "CurrentInventoryLevels": 1626,
+      "InventoryTurnoverRate": 5.41,
+      "StockOutFrequency": 12,
+      "ProductRestockRates": 25
+    },
+    {
+      "AisleNumber": "A29",
+      "StockingSection": "Nuts and Bars",
+      "CurrentInventoryLevels": 1644,
+      "InventoryTurnoverRate": 2.33,
+      "StockOutFrequency": 96,
+      "ProductRestockRates": 14
+    },
+    {
+      "AisleNumber": "A30",
+      "StockingSection": "Beers",
+      "CurrentInventoryLevels": 1908,
+      "InventoryTurnoverRate": 3.54,
+      "StockOutFrequency": 54,
+      "ProductRestockRates": 24
+    },
+    {
+      "AisleNumber": "A0",
+      "StockingSection": "Cookie/Cracker LunchBox",
+      "CurrentInventoryLevels": 1537,
+      "InventoryTurnoverRate": 2.63,
+      "StockOutFrequency": 61,
+      "ProductRestockRates": 3
+    }
+  ]
+  
