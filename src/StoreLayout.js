@@ -5,6 +5,9 @@ import Dialog from '@mui/material/Dialog';
 import DialogContent from '@mui/material/DialogContent';
 import DialogTitle from '@mui/material/DialogTitle';
 import {
+    InputLabel,
+    Select,
+    Typography,
     TableContainer,
     Table,
     TableHead,
@@ -81,6 +84,9 @@ function StoreLayout() {
 
   return (
     <div style={{ height: "100vh", width: '100%' }}>
+        <Typography variant="h4" gutterBottom>
+      Store Number: 4926
+       </Typography>
       <DataGrid rows={storeData} columns={columns} pageSize={10} 
        />
       <Dialog open={showItemDetails} onClose={() => setShowItemDetails(false)}
