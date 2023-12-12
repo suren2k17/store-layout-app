@@ -2,8 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { styled } from '@mui/material/styles';
 import { Drawer, List, ListItem, ListItemText, Collapse } from '@mui/material';
-import ExpandLess from '@mui/icons-material/ExpandLess';
-import ExpandMore from '@mui/icons-material/ExpandMore';
+
 
 const StyledDrawer = styled(Drawer)({
   width: 240,
@@ -45,7 +44,7 @@ function NavigationMenu() {
           {/* Resets Main Menu */}
           <ListItem button onClick={() => handleClick('resets')}>
             <ListItemText primary="Resets" />
-            {open['resets'] ? <ExpandLess /> : <ExpandMore />}
+            {open['resets'] ? '▼' : '▶'}
           </ListItem>
           <Collapse in={open['resets']} timeout="auto" unmountOnExit>
             <List component="div" disablePadding>
@@ -61,7 +60,7 @@ function NavigationMenu() {
           {/* Virtual Tours Main Menu */}
           <ListItem button onClick={() => handleClick('virtualTours')}>
             <ListItemText primary="Virtual Tours" />
-            {open['virtualTours'] ? <ExpandLess /> : <ExpandMore />}
+            {open['virtualTours'] ? '▼' : '▶'}
           </ListItem>
           <Collapse in={open['virtualTours']} timeout="auto" unmountOnExit>
             <List component="div" disablePadding>
@@ -74,7 +73,7 @@ function NavigationMenu() {
           {/* Store Insights Main Menu */}
           <ListItem button onClick={() => handleClick('storeInsights')}>
             <ListItemText primary="Store Insights" />
-            {open['storeInsights'] ? <ExpandLess /> : <ExpandMore />}
+            {open['storeInsights'] ? '▼' : '▶'}
           </ListItem>
           <Collapse in={open['storeInsights']} timeout="auto" unmountOnExit>
             <List component="div" disablePadding>
