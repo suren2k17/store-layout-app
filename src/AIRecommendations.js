@@ -77,7 +77,7 @@ function AIRecommendations() {
   return (
     <div>
        <Typography variant="h4" gutterBottom>
-      AI based Recommendations/Simulations
+      AI based Reset Recommendations/Simulations
        </Typography>
 <Grid container spacing={2}> {/* Wrap the content in a Grid container */}
       <Grid item xs={12} sm={4}> {/* Use responsive sizing */}
